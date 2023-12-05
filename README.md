@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Tech Enthusiast || SWOC Contributor</h3>
 
 <p align="left">
 </p>
